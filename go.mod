@@ -1,4 +1,4 @@
-module github.com/szkiba/xk6-faker
+module github.com/tbruccoleri/xk6-faker
 
 go 1.16
 
